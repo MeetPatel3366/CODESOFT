@@ -1,2 +1,2 @@
 # CODESOFT 
-Task 2 : Landing Page
+Task 3 : Calculator
