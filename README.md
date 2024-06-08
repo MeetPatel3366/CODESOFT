@@ -1,2 +1,2 @@
-# CODESOFT
-Web Development Tasks
+# CODESOFT 
+Task 2 : Landing Page
